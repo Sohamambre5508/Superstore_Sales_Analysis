@@ -5,7 +5,7 @@ This repository contains a Superstore Sales Dashboard developed using Power BI. 
 
 # Dashboard Components
 
-The objective can be broken down into the following datailed components:
+The objective can be broken down into the following detailed components:
 1. Dashboard Creation - Indentify the KPI's design an intuitive and visually appealing dashboard, add interactive visualization and filtering capabilities to allow users to explore the data at various levels of granularity.
 2. Data Analysis - Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 3. Sales Forecasting - Based on historic data and apply time series analysis to genarate sales forecasts for next 15 days.
